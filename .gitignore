@@ -6,11 +6,16 @@ Icon?
 Thumbs.db
 *.DS_Store
 
+# Google files #
+################
+*.gdoc
+*.gslide
 
 # Large data files #
 ###################
-data/
+*.csv
 
 # Archive/Temp directories #
 ####################
 Old/
+assignment/
